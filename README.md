@@ -20,3 +20,17 @@ Below are some screenshots offering a glimpse into the user interface of Message
   <img width="300" src="repo-assets/screenshots/messageboxes-for-anyone-options-screenshot.png" alt="MessageBoxes for Anyone Options dialog box - Message Box Type">
   <img width="300" src="repo-assets/screenshots/messageboxes-for-anyone-options-2-screenshot.png" alt="MessageBoxes for Anyone Options dialog box - Button Actions">
 </p>
+
+## Building
+
+MessageBoxes for Anyone was last compiled using Borland Delphi 7.0 back in 2003, so attempting to build it with modern tools might be an interesting journey into the past. At present, it's uncertain whether newer versions of Delphi or the free Lazarus compiler can successfully compile the project. If time permits, I should explore whether Lazarus can compile and run the project.
+
+## Contributing
+
+I welcome contributions to MessageBoxes for Anyone, despite its incomplete state. As some features are not implemented, the interface is rough, and the project hasn't been recompiled using modern tools since 2003, your involvement can make a meaningful difference.
+
+To contribute, fork the repository, create a new branch, make your changes, and submit a pull request. I appreciate your willingness to help resurrect MessageBoxes for Anyone.
+
+## License
+
+MessageBoxes for Anyone is licensed under the [MIT license](LICENSE).
